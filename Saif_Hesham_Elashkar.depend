@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1713658413 source:c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\cointoss.cpp
+	"CoinToss.h"
+
+1713669146 c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\cointoss.h
+	<cstdlib>
+	<iostream>
+	"Thrown.h"
+	<cassert>
+
+1713658413 source:c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\onedice.cpp
+	"OneDice.h"
+
+1713669146 c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\onedice.h
+	<cstdlib>
+	<iostream>
+	"Thrown.h"
+	<cassert>
+
+1713663744 source:c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\main.cpp
+	"CoinToss.h"
+	"OneDice.h"
+	"TwoDices.h"
+	<iostream>
+	<string>
+	<vector>
+
+1713669146 c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\twodices.h
+	<cstdlib>
+	<iostream>
+	"Thrown.h"
+	"OneDice.h"
+	<cassert>
+
+1713660554 source:c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\twodices.cpp
+	"TwoDices.h"
+
+1713669146 c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\thrown.h
+	<cstdlib>
+	<iostream>
+	<cassert>
+
+1713661254 source:c:\users\rog\desktop\qub\c++\saif_hesham_elashkar\thrown.cpp
+	"Thrown.h"
+	<time.h>
+
